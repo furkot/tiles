@@ -1,0 +1,30 @@
+{
+  "name": "furkot-tiles",
+  "version": "0.0.0",
+  "description": "Tiles API for Furkot.",
+  "author": {
+    "name": "Natalia Kowalczyk",
+    "email": "melitele@furkot.com",
+    "url": "https://furkot.com"
+  },
+  "repository": "furkot/tiles",
+  "license": "MIT",
+  "keywords": [
+    "furkot-tiles",
+    "furkot",
+    "tiles"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
