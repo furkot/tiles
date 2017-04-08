@@ -14,7 +14,9 @@
     "furkot",
     "tiles"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "lodash.defaults": "^4.2.0"
+  },
   "devDependencies": {
     "jshint": "^2.9.4",
     "mocha": "^3.2.0",
