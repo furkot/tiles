@@ -14,7 +14,10 @@
     "furkot",
     "tiles"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "lodash.defaults": "^4.2.0",
+    "mapbox-gl": "^0.35.0"
+  },
   "devDependencies": {
     "jshint": "^2.9.4",
     "mocha": "^3.2.0",
