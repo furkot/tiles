@@ -1,4 +1,10 @@
 
+0.0.2 / 2017-04-15
+==================
+
+ * add .json suffix to JSON files loaded through require
+ * expect mapboxgl to be loaded
+
 0.0.1 / 2017-04-13
 ==================
 
