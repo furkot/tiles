@@ -15,8 +15,7 @@
     "tiles"
   ],
   "dependencies": {
-    "lodash.defaults": "^4.2.0",
-    "mapbox-gl": "^0.35.0"
+    "lodash.defaults": "^4.2.0"
   },
   "devDependencies": {
     "jshint": "^2.9.4",
