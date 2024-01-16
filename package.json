@@ -18,9 +18,8 @@
     "lodash.defaults": "^4.2.0"
   },
   "devDependencies": {
-    "jshint": "^2.9.4",
-    "mocha": "^3.2.0",
-    "should": "^11.2.1"
+    "@pirxpilot/jshint": "~3",
+    "should": "~13"
   },
   "scripts": {
     "test": "make check"

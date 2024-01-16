@@ -1,6 +1,6 @@
 [![NPM version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Dependency Status][gemnasium-image]][gemnasium-url]
+[![Build Status][build-image]][build-url]
+[![Dependency Status][deps-image]][deps-url]
 
 # furkot-tiles
 
@@ -24,11 +24,11 @@ furkotTiles('Rainbow');
 
 MIT © [Natalia Kowalczyk](https://furkot.com)
 
-[npm-image]: https://img.shields.io/npm/v/furkot-tiles.svg
+[npm-image]: https://img.shields.io/npm/v/furkot-tiles
 [npm-url]: https://npmjs.org/package/furkot-tiles
 
-[travis-url]: https://travis-ci.org/furkot/tiles
-[travis-image]: https://img.shields.io/travis/furkot/tiles.svg
+[build-url]: https://github.com/furkot/tiles/actions/workflows/check.yaml
+[build-image]: https://img.shields.io/github/actions/workflow/status/furkot/tiles/check.yaml?branch=main
 
-[gemnasium-image]: https://img.shields.io/gemnasium/furkot/tiles.svg
-[gemnasium-url]: https://gemnasium.com/furkot/tiles
+[deps-image]: https://img.shields.io/librariesio/release/npm/furkot-tiles
+[deps-url]: https://libraries.io/npm/furkot-tiles
