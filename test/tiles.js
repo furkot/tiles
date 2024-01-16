@@ -1,12 +1,15 @@
-var furkotTiles = require('../lib/tiles');
+const { describe, it } = require('node:test');
+const assert = require('node:assert');
+
+const furkotTiles = require('../lib/tiles');
 
 describe('furkot-tiles node module', function () {
 
   it('overlay', function () {
-    var tiles = furkotTiles({
+    const tiles = furkotTiles({
       overlay: true,
       render: function () {}
     });
-    tiles.should.have.property('render');
+    assert.equal(typeof tiles.render, 'function');
   });
 });
